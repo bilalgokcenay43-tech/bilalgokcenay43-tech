@@ -1,4 +1,4 @@
-#  System Terminal: Bilal Gökçen Ay
+#  System Terminal: Bilal Gökcen Ay
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Executing_Defense_Protocols-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Role-CyberSec_&_Software_Engineer-blue?style=for-the-badge&logo=python&logoColor=white" />
