@@ -15,26 +15,25 @@
 class BilalProfile:
     def __init__(self):
         self.identity = "Bilal Gökçen Ay"
-        self.role = "10th Grade Developer | CyberSec Candidate"
+        self.role = "Cybersecurity Developer | Game Developer"
         self.location = "Istanbul, TR"
-        
-        # Tech Stack
+
         self.skills = {
-            "Cybersecurity": ["Python", "Flask", "sqlparse", "Kali Linux", "NTP"],
+            "Cybersecurity": ["Python", "Flask", "sqlparse", "Kali Linux", "Wireshark"],
             "Game_Dev": ["Unreal Engine 5.4.4", "C#", "Blender 3D"],
-            "Hardware": ["RTX 4060", "i5-14400F Optimization"]
+            "Systems": ["Linux Optimization", "RTX 4060 & i5-14400F Hybrid Tuning"]
         }
 
     def get_missions(self):
         return {
-            "Current": "Developing Python-based Adaptive WAF",
-            "Next_Step": "ISMEK Cyber Security Course (June 2026)",
-            "Ultimate_Goal": "TCMB (Central Bank) Internship @ Grade 12"
+            "Current": "Building Adaptive WAF (Python-based security system)",
+            "Active_Learning": "AI-powered anomaly detection & Network Defense",
+            "Target": "TCMB (Central Bank) Cybersecurity Internship @ Grade 12"
         }
 
     def system_maintenance(self):
-        return "8-Set Wrist/Finger Conditioning: ACTIVE"
+        return "8-Set Wrist & Finger Conditioning: ACTIVE"
 
 if __name__ == "__main__":
     bilal = BilalProfile()
-    print("Executing defense protocols... System Secure. ")
+    print("Executing defense protocols... System Secure. 🛡️")
