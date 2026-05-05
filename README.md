@@ -30,3 +30,18 @@ if __name__ == "__main__":
     bilal = BilalProfile()
     print("Executing defense protocols... System Secure.")
 ```
+
+---
+### 📊 GitHub İstatistiklerim
+
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalGokcenay43-tech&show_icons=true&theme=tokyonight)
+
+![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalGokcenay43-tech&layout=compact&theme=tokyonight)
+
+---
+### 🛠️ Kullandığım Teknolojiler
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white)
