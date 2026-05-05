@@ -1,41 +1,40 @@
-root@bilal:~# whoami
-Bilal Gökçen Ay
+#  System Terminal: Bilal Gökçen Ay
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Executing_Defense_Protocols-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-CyberSec_&_Software_Engineer-blue?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-root@bilal:~# role
-Cybersecurity Developer
+> _"The best way to predict the future is to create it."_  
+> — **Root Access Granted**
 
-root@bilal:~# focus
-Adaptive WAF | Network Traffic Analysis | AI-based Anomaly Detection
+---
 
-root@bilal:~# status
-Building Adaptive WAF | Exploring AI in Cybersecurity
+##  Core Profile: `class BilalProfile`
 
-root@bilal:~# cat class.py
-class AdaptiveWAF:
+```python
+class BilalProfile:
     def __init__(self):
-        self.rules = []
-        self.anomaly_detector = None
-        self.spoofing_protection = True
+        self.identity = "Bilal Gökçen Ay"
+        self.role = "10th Grade Developer | CyberSec Candidate"
+        self.location = "Istanbul, TR"
         
-    def detect_anomalies(self, traffic_data):
-        return "Analyzing traffic patterns"
-        
-    def prevent_spoofing(self, packet_data):
-        return "Validating packet source"
-        
-    def adaptive_learning(self, new_patterns):
-        return "Updating detection rules"
+        # Tech Stack
+        self.skills = {
+            "Cybersecurity": ["Python", "Flask", "sqlparse", "Kali Linux", "NTP"],
+            "Game_Dev": ["Unreal Engine 5.4.4", "C#", "Blender 3D"],
+            "Hardware": ["RTX 4060", "i5-14400F Optimization"]
+        }
 
-root@bilal:~# projects
-Adaptive WAF - Flask-based firewall with anomaly detection (in progress)
-Network Security - Traffic analysis experiments
-AI Security - Early-stage anomaly detection models
+    def get_missions(self):
+        return {
+            "Current": "Developing Python-based Adaptive WAF",
+            "Next_Step": "ISMEK Cyber Security Course (June 2026)",
+            "Ultimate_Goal": "TCMB (Central Bank) Internship @ Grade 12"
+        }
 
-root@bilal:~# stats
-commits: 150+
-projects: 3
-main: python
+    def system_maintenance(self):
+        return "8-Set Wrist/Finger Conditioning: ACTIVE"
 
-root@bilal:~# connect
-github: bilalgokcen
-linkedin: bilalgokcen
+if __name__ == "__main__":
+    bilal = BilalProfile()
+    print("Executing defense protocols... System Secure. ")
