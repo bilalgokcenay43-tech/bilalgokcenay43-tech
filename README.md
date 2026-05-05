@@ -34,9 +34,13 @@ if __name__ == "__main__":
 ---
 ### 📊 GitHub İstatistiklerim
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalGokcenay43-tech&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalgokcenay43-tech&show_icons=true&theme=tokyonight" alt="Bilal Stats" />
+</p>
 
-![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalGokcenay43-tech&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalgokcenay43-tech&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 ### 🛠️ Kullandığım Teknolojiler
