@@ -36,4 +36,16 @@ class BilalProfile:
 
 if __name__ == "__main__":
     bilal = BilalProfile()
-    print("Executing defense protocols... System Secure. 🛡️")
+    print("Executing defense protocols... System Secure. ")
+
+
+root@bilal:~# nmap -sV localhost
+PORT    STATE SERVICE     VERSION
+22/tcp  open  ssh         OpenSSH 8.4p1
+80/tcp  open  http        Adaptive-WAF/1.0.2 (Python)
+
+root@bilal:~# ps aux | grep waf
+bilal   1234  0.1  0.2  python3 waf_engine.py --mode=adaptive-defense
+
+root@bilal:~# ./check_physical_fitness.sh
+[OK] Wrist & Finger Stability: 100% (High-Performance Mode)
