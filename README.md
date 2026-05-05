@@ -32,20 +32,25 @@ if __name__ == "__main__":
 ```
 
 ---
-### 📊 GitHub İstatistiklerim
 
+### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalgokcenay43-tech&show_icons=true&theme=tokyonight" alt="Bilal Stats" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### 📈 Activity & Stats
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalgokcenay43-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalgokcenay43-tech&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=bilalgokcenay43-tech&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
-### 🛠️ Kullandığım Teknolojiler
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white)
+> **Note:** "The best way to predict the future is to create it." - *Executing Defense Protocols...* 🛡️
